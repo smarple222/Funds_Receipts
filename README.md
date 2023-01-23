@@ -28,9 +28,9 @@ X. represents multiple sub-sections
     - GAFS-R
     - DDRS<br>
 for the following tabs:
-      - [x] Realized
-      - [x] Transfers
-      - [x] Rescissions 
+      - [ ] Realized
+      - [ ] Transfers
+      - [ ] Rescissions 
 
 ## Realized, Transfers, Rescissions Tabs
 - X.2 All variances are explained in footnotes
