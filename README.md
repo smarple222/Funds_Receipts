@@ -48,12 +48,11 @@ for the following tabs:
 
 Checklist| file / tab | item| sign | file / tab | item | Notes
 -|-|-|-|-|-|-
-C.5, X.9 | Funds Receipt | DDRS by bs | = | Funds Receipt | Adjusted GAFS by bs | if they do not match, a tic mark should explain the variance.  If the variance isn't properly explained, email Stacy
+x.5 | Funds Receipt | DDRS by bs | = | Funds Receipt | Adjusted GAFS by bs | if they do not match, a tic mark should explain the variance.  If the variance isn't properly explained, email Stacy
 x.6 | Funds Receipt | Unadjusted_GAFS-R_Total (Total) | = | Approp Real Register Number | GAFS (Real)
-C.7 | Funds Receipt | AFM_Total (Total) | = | Approp Real Register Number | GAFS_AFM | compare to register tab sub totals
-X.7 | X by GLAC | GAFS Total by basic symbol | = |  Approp Real Register Number | GAFS totals by bs | compare subtotals by bs against subtotals by bs in Register Number tabs
-X.8.a | X by GLAC | AFM sum total | = | Funds Receipt | AFM sum total | by dept (if multiple exist: ie. 57, 69)
-X.8.b | X by GLAC | GAFS sum total | = | Funds Receipt | GAFS sum total |
+D.7, E.7 | X by GLAC | GAFS Total by basic symbol | = |  Approp Real Register Number | GAFS totals by bs | compare subtotals by bs against subtotals by bs in Register Number tabs
+D.8, E.8 | X by GLAC | AFM, GAFS sum totals | = | Funds Receipt | AFM, GAFS sum total | by dept (if multiple exist: ie. 57, 69)
+D.9, E.9 | X by GLAC | AFM, GAFS sum totals | = | Funds Receipt | AFM, GAFS sum totals | match totals between Funds Receipts and X by GLAC
 
 ---
 - [ ] C.5 (Relz)
