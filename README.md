@@ -59,13 +59,11 @@ D.9, E.9 | X by GLAC | AFM, GAFS sum totals | = | Funds Receipt | AFM, GAFS sum 
 - [ ] C.6 (Relz)
 - [ ] D.6 (Trns)  
 - [ ] D.7 (Trns, GLAC)  
-- [ ] D.8.a (Trns, GLAC)
-- [ ] D.8.b (Trns, GLAC)   
+- [ ] D.8 (Trns, GLAC)  
 - [ ] D.9 (Trns)
 - [ ] E.6 (Resc)
 - [ ] E.7 (Resc, GLAC)
-- [ ] E.8.a (Resc, GLAC)  
-- [ ] E.8.b (Resc, GLAC)  
+- [ ] E.8 (Resc, GLAC)   
 - [ ] E.9 (Resc)
 
 ---
